@@ -1,0 +1,27 @@
+
+======================================================================
+======================================================================
+ Welcome to the NW Python Debugging Information Utility!
+ Date and Time: 2023-09-02 at 09:42 PM
+ Operating System: posix Darwin 21.5.0
+ System Architecture: 64bit
+ Number of CPUs: 8
+ Machine Type: x86_64
+ Python Version: 3.9.12
+ Python Build Date and Compiler: main with Apr  5 2022 01:53:17
+ Python Implementation: CPython
+ Active pip environment:   None
+ Active conda environment: None
+ Path to Interpreter:         /Users/muffinman/opt/anaconda3/bin/python
+ Path to virtual environment: /Users/muffinman/opt/anaconda3
+ Current Working Directory:   /Users/muffinman/Desktop/introtopython/datafun-01-getting-started
+ Path to source directory:    /Users/muffinman/Desktop/introtopython/datafun-01-getting-started
+ Path to script file:         /Users/muffinman/Desktop/introtopython/datafun-01-getting-started/util_about.py
+ User's Home Directory:       /Users/muffinman
+ Terminal Environment:        VS Code
+ Terminal Type:               zsh
+ Preferred command:           python3
+ Is python3 available in PATH:   True
+ Is git available in PATH:      True 
+======================================================================
+======================================================================
