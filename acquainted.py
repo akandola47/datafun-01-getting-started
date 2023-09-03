@@ -82,3 +82,5 @@ logger.info(f"Pet weight: {pet_weight_lbs}")
 logger.info(f"Has dog: {has_dog}")
 logger.info(f"Likes analytics: {likes_analytics}")
 logger.info(f"Likes Python: {likes_python}")
+
+Arshpreet Kandola MAC

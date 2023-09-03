@@ -189,3 +189,6 @@ if __name__ == "__main__":
 
     # Print the debug information to a file named by the value in OUTPUT_FILENAME.
     print_info_to_file(OUTPUT_FILENAME, debug_info)
+
+print(
+)
